@@ -8052,7 +8052,7 @@ J.dC(A.a(A.a(n,"options").b,"_headers"),"Accept","application/json")
 m=A.apD()
 m.a="GET"
 s=3
-return A.a3(o.yN(0,"http://127.0.0.1:8000/api/product",null,null,m,null,t.z).aK(0,new A.Y8(l,p),t.P).eM(new A.Y9()),$async$Y7)
+return A.a3(o.yN(0,"http://api.bssport.ru/api/product",null,null,m,null,t.z).aK(0,new A.Y8(l,p),t.P).eM(new A.Y9()),$async$Y7)
 case 3:q=p
 s=1
 break
